@@ -22,13 +22,21 @@ gcc -o nqc main.c -lz
 You can execute nqc -h to get usage information.
     Usage:
      -f    the path of fq files or fq.gz files, seperated by comma.
+     
      -p     threads number.
+     
      -o     output directory.
+    
      -s     sample name.
+     
      -N     N rate. default: 0.1"
+     
      -l     low qual.
+     
      -L     the minimal length of read. The reads(perhaps have been truncated) will be discarded if its length is less than this value.
+     
      -g     the sequence data is compressed by gzip.
+     
      -h    help information."
 
 
