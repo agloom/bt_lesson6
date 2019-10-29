@@ -37,7 +37,7 @@ You can execute nqc -h to get usage information.
      
      -g     the sequence data is compressed by gzip.
      
-     -h    help information."
+     -h    help information.
 
 
 ### TO-DO list;
