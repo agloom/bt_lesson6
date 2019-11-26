@@ -1,4 +1,5 @@
 # Question 1-5： BAM FLAG
+[note]: bam_flag.py(in this repository) is a simple program, witten by python, for getting bam flag information. Usage example: python bam_flag.py -f 143
 ## 1. Explain BAM FLAG value： 143
 + 1: template having multiple segments in sequencing---测序片段不止一条（PE测序）
 + 2: each segment properly aligned according to the aligner---和参考序列完全匹配
