@@ -40,4 +40,4 @@
 + 7个碱基匹配5个碱基缺失8个碱基匹配2个碱基插入14个碱基匹配
 
 ## 10. how long is the read with alignment CIGAR of 7M5D8M2I14M?
-31bp (7+8+2+14)
++ 31bp (7+8+2+14)
